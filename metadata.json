@@ -1,0 +1,6 @@
+{
+  "name": "HOTEL REGAL VISTA - Luxury Hotel in Ipoh, Perak",
+  "description": "Experience comfort, elegance & exceptional hospitality in Ipoh at Hotel Regal Vista. Explore rooms, facilities, and book your stay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
